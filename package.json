@@ -1,0 +1,43 @@
+{
+  "name": "hackdo-components",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Hackdo components",
+  "dependencies": {
+  },
+  "scripts": {
+    "debug": "node debug app.js",
+    "start": "node app.js",
+    "webpack:build": "webpack --progress --color --display-error-details --bail",
+    "webpack:watch": "webpack --progress --color --watch --display-error-details"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:Maxtermax/react-components.git"
+  },
+  "author": "H4CKDO FOUNDATION",
+  "license": "",
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "handlebars": "^4.0.5",
+    "node-sass": "^3.13.1",
+    "webpack": "^1.14.0",
+    "webpack-notifier": "^1.5.0",
+    "jquery": "^3.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "css-loader": "^0.26.1",
+    "exports-loader": "^0.6.3",
+    "expose-loader": "^0.7.1",
+    "foundation-sites": "^6.3.0",
+    "postcss-loader": "^0.8.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "motion-ui": "^1.2.2"
+  }
+}

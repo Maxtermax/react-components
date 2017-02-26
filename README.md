@@ -110,10 +110,10 @@ style          | false     | "**btn-load**", "**btn-loadmore**", "**btn-cancel**
    - ![btn-cancel](./images/button-loadmore.gif)
 
  - btn-search
-   - ![btn-search](./images/button-send.gif)
+   - ![btn-search](./images/button-send.png)
 
  - btn-send
-   - ![btn-send](./images/button-send.gif)
+   - ![btn-send](./images/button-send.png)
 
 
 

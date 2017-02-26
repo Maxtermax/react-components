@@ -107,10 +107,10 @@ style          | false     | "**btn-load**", "**btn-loadmore**", "**btn-cancel**
    - ![btn-loadmore](./images/button-loadmore.gif)
 
  - btn-cancel
-   - ![btn-cancel](./images/button-loadmore.gif)
+   - ![btn-cancel](./images/button-cancel.gif)
 
  - btn-search
-   - ![btn-search](./images/button-send.png)
+   - ![btn-search](./images/button-search.png)
 
  - btn-send
    - ![btn-send](./images/button-send.png)

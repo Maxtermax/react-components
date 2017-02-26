@@ -98,22 +98,22 @@ type           | true      | "submit", "button", "reset" | **String**
 onClick        | false     | Function         | Function
 style          | false     | "**btn-load**", "**btn-loadmore**", "**btn-cancel**", "**btn-confirm**", "**btn-search**", "**btn-send**" | **String**
 
-![btn](./documentation/images/button-icon.gif)
+![btn](./images/button-icon.gif)
 
  - btn-load
-   - ![btn-load](./documentation/images/button-load.gif)
+   - ![btn-load](./images/button-load.gif)
 
  - btn-loadmore
-   - ![btn-loadmore](./documentation/images/button-loadmore.gif)
+   - ![btn-loadmore](./images/button-loadmore.gif)
 
  - btn-cancel
-   - ![btn-cancel](./documentation/images/button-loadmore.gif)
+   - ![btn-cancel](./images/button-loadmore.gif)
 
  - btn-search
-   - ![btn-search](./documentation/images/button-send.gif)
+   - ![btn-search](./images/button-send.gif)
 
  - btn-send
-   - ![btn-send](./documentation/images/button-send.gif)
+   - ![btn-send](./images/button-send.gif)
 
 
 
@@ -154,20 +154,20 @@ Descripción de los atributos:
 
 
 
-![PopUp](./documentation/images/popup-form.gif)
+![PopUp](./images/popup-form.gif)
 
  - confirm
-   - ![Popup confirm](./documentation/images/popup-confirm.gif)
+   - ![Popup confirm](./images/popup-confirm.gif)
 
  - error
-   - ![Popup error](./documentation/images/popup-error.gif)
+   - ![Popup error](./images/popup-error.gif)
 
  - load
-   - ![Popup load](./documentation/images/popup-load.gif)
+   - ![Popup load](./images/popup-load.gif)
 
  - warning
-   - ![Popup warning](./documentation/images/popup-warning.gif)
+   - ![Popup warning](./images/popup-warning.gif)
 
  - form
-   - ![Popup form](./documentation/images/popup-formulario.gif)
+   - ![Popup form](./images/popup-formulario.gif)
 
